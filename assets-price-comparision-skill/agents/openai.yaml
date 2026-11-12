@@ -1,0 +1,4 @@
+interface:
+  display_name: "Assets Price Comparision Skill"
+  short_description: "Compare asset prices, volatility, and trends"
+  default_prompt: "Use $assets-price-comparision-skill to compare the requested assets and produce CSV data, charts, and a two-page report."
